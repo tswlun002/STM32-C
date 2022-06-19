@@ -1,4 +1,4 @@
-# STM32-C
+# STM32
 WRITTEN BY:    tswlun002
 DEV. BOARD:    STM32F0 Discovery Board  
 TARGET:	   STMicroelectronics STM32F051
